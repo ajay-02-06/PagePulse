@@ -1,6 +1,6 @@
 # 🔍 PagePulse
 
-A modern Website SEO & Performance Analyzer built using the MERN stack.
+A modern Website SEO & Performance Analyzer built using React, Node.js, and Express.js.
 
 PagePulse analyzes any public webpage and generates an SEO audit report by extracting HTML metadata and evaluating important SEO metrics. The application provides an easy-to-understand dashboard with performance insights, recommendations, and downloadable reports.
 
@@ -8,9 +8,9 @@ PagePulse analyzes any public webpage and generates an SEO audit report by extra
 
 ## 🚀 Live Demo
 
-Frontend: (Add after deployment)
+Frontend: https://page-pulse-sable-three.vercel.app/
 
-Backend API: (Add after deployment)
+Backend API: https://pagepulse-backend-0mmk.onrender.com
 
 ---
 
@@ -205,7 +205,7 @@ PagePulse/
 ## Clone Repository
 
 ```bash
-git clone <your-github-repository>
+git clone https://github.com/ajay-02-06/PagePulse
 ```
 
 ---
